@@ -1,0 +1,35 @@
+[90895][      debug] Sqlite write daemon: starting up
+[90895][      debug] Sqlite write daemon: set up complete, waiting for connections
+[90899][      debug] Sqlite write daemon: process starting, pid= 90899
+[90895][environment] CWD = /Users/dabeer/PCDP
+[90895][environment] No .inferconfig file found
+[90895][environment] Project root = /Users/dabeer/PCDP
+[90895][environment] INFER_ARGS =   @/var/folders/td/bwzm0ch95gv3n67hkws8_vwm0000gn/T/args.tmp.875d7d
+[90895][environment]                --progress-bar-style multiline
+[90895][environment] command line arguments:   infer --racerd-only --sourcepath src/main/java
+[90895][environment]                           --generated-classes target/classes
+[90895][environment] Could not retrieve available memory (possibly not on Linux)
+[90895][environment] Active checkers: racerd (C/C++/ObjC, C#/.Net, Java)
+[90895][environment] Scheduler: restart
+[90895][environment] Cores used: 8
+[90895][environment] Infer version v1.2.0-f87c040f97
+[90895][environment] Copyright 2009 - present Facebook. All Rights Reserved.
+[90895][environment] 
+[90895][   progress] Capturing for Buck genrule compatibility...
+[90899][      debug] Detected 0 spec overwrites.
+[90899][      debug] Sqlite write daemon: terminating
+[90895][      debug] Sqlite write daemon: waiting for process 90899 to finish
+[90899][      debug] dbwriter.useful_time_user= 0.00003600
+[90899][      debug] dbwriter.useful_time_sys= 0.00046300
+[90899][      debug] dbwriter.useful_time_wall= 0.00060133
+[90899][      debug] dbwriter.useful_time_oncpu_pct= 83%
+[90899][      debug] dbwriter.store_sql_user= 0.00000000
+[90899][      debug] dbwriter.store_sql_sys= 0.00000000
+[90899][      debug] dbwriter.store_sql_wall= 0.00000000
+[90899][      debug] dbwriter.store_sql_oncpu_pct= 0%
+[90899][      debug] dbwriter.store_sql_pct= 0%
+[90899][      debug] dbwriter.total_time_user= 0.00008500
+[90899][      debug] dbwriter.total_time_sys= 0.00060600
+[90899][      debug] dbwriter.total_time_wall= 0.00922700
+[90899][      debug] dbwriter.total_time_oncpu_pct= 7%
+[90899][      debug] [90895][      debug] Sqlite write daemon: process 90899 terminated
