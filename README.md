@@ -12,8 +12,6 @@ Locking Mechanisms: Spinlocks, Semaphores, Monitors
 
 Concurrent Data Structures: Queues, Stacks, Skiplists
 
-Consensus in Shared Memory (e.g., Paxos)
-
 Read-Modify-Write operations and atomicity
 
 Futures and Promises in Java and Scala
