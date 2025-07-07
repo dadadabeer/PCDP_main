@@ -1,4 +1,5 @@
 🧵 Parallel, Concurrent, and Distributed Programming — Coursework Archive
+
 📝 Summary
 This repository contains all code and reports written during my Parallel, Concurrent, and Distributed Programming course (Aug 2024 – Dec 2024). It includes both theoretical assignments and programming tasks that explore key abstractions, challenges, and tools in concurrent and distributed computing.
 
