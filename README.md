@@ -31,12 +31,13 @@ Languages: Scala, Java
 Frameworks/Libraries: Akka, Java Futures, Scala Futures, Java Concurrency Utilities
 
 🔬 Coursework Highlights
+
 🔹 Midterm Project – Hybrid Sort
 Designed and implemented a custom Hybrid Sort (merge + insertion) that was benchmarked to be ~3× faster than Scala’s built-in Array.sort on randomized datasets. This exercise focused on thread pool implementation and fine-grained parallelism. (Report available in the Repository : PCDP_Mid_Term_Report (2).pdf)
 
 
 🔹 Final Project – Distributed Key-Value Store
-Built a fault-tolerant, replicated key-value store using techniques in distributed consensus, message passing, and failure handling. The project required designing a fully asynchronous architecture capable of recovering from node crashes and message loss. (Report available in the Repository : final-project (1).pdf)
+Built a fault-tolerant, replicated key-value store using techniques in distributed consensus, message passing, and failure handling. The project required designing a fully asynchronous architecture capable of recovering from node crashes and message loss. (Report available in the Repository : PCDP_FINAL_KV_STORE (4).pdf
 
 🔹 Open Source Race Condition Analysis – Chronicle Map
 As part of a mini research project, I analyzed the Chronicle Map open-source codebase for potential race conditions using Facebook Infer and manual auditing. I proposed several fixes for unsafe access patterns, improper synchronization, and inconsistent visibility, all of which were documented with reproducible examples and formal justifications. (Report available in the Repository : ChronicleMap_Research_Project (1).pdf)
